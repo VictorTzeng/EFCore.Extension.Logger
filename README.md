@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/v-xiaze0473/v-xiaze/_apis/build/status/VictorTzeng.EFCore.Extension.Logger?branchName=master)](https://dev.azure.com/v-xiaze0473/v-xiaze/_build/latest?definitionId=4&branchName=master)
+
 # EFCore.Extension.Logger 
 输出EF Core生成的SQL语句到控制台。A library outputing EFCore's SQL to the console.
 

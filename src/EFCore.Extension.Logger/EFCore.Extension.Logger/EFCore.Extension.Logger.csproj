@@ -6,13 +6,13 @@
     <PackageProjectUrl>https://github.com/VictorTzeng/EFCore.Extension.Logger</PackageProjectUrl>
     <Description>输出EF Core生成的SQL语句到控制台。A library outputing EFCore's SQL to the console.</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <Version>1.0.1</Version>
-    <PackageReleaseNotes>upgrade to netstandard 2.1, and upgrade efcore to 3.0</PackageReleaseNotes>
+    <Version>1.0.2</Version>
+    <PackageReleaseNotes>upgrade efcore to 3.1.0</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.0.0" />
-    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="3.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="3.1.0" />
   </ItemGroup>
 
 </Project>
